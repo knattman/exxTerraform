@@ -1,0 +1,2 @@
+[prod_azure_linux]
+webserver-demo                  ansible_host=10.98.245.70       ansible_connection=ssh
